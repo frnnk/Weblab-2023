@@ -1,0 +1,21 @@
+.Special-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bolder;
+  letter-spacing: 0.1em;
+  color: white;
+  background-color: var(--lightpink);
+  padding: 1.2em 0 1.2em;
+  border-radius: 0.5em;
+  box-shadow: 0 0.4em var(--darkpink), 0 0.8em black;
+  transition: 0.7s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.Special-button:hover {
+  box-shadow: 0 0.4em var(--darkerpalepink), 0 0.8em white, inset 50em 0 var(--palepink);
+  color: black;
+  transform: scale(1.05);
+}

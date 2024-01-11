@@ -1,0 +1,14 @@
+.App-body {
+  background-color: var(--cyan);
+  margin: auto;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  color: black;
+}
+
+.body {
+  background-color: black;
+}

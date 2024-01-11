@@ -1,0 +1,19 @@
+.button {
+  background: var(--lightpink);
+  color: var(--white);
+  padding: 15px 45px 15px;
+  text-decoration: none;
+  margin: 20px;
+  justify-content: center;
+  box-shadow: 0 0.2em var(--darkpink), 0 0.4em black;
+  transition: 0.3s ease-in;
+}
+
+.button:hover {
+  box-shadow: 0 0.4em var(--darkpink), 0 0.8em black;
+}
+
+.button-shell {
+  display: flex;
+  justify-content: center;
+}
