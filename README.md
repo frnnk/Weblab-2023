@@ -1,5 +1,7 @@
 Weblab 2023 Contest Entry: Made with React Frontend, Express.js Backend, and MongoDB
 
+Deployed on https://maze.herokuapp.com/
+
 ---
 
 ART USED:
